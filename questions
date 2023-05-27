@@ -1,0 +1,22 @@
+[
+  {
+    "question": "2 x (2 + 2)?",
+    "answer": "8",
+    "difficulty": 1
+  },
+  {
+    "question": "3 x (3 + 3)?",
+    "answer": "18",
+    "difficulty": 1
+  },
+  {
+    "question": "3 x (4 + 1)?",
+    "answer": "15",
+    "difficulty": 1
+  },
+  {
+    "question": "2 x (3 + 2)?",
+    "answer": "10",
+    "difficulty": 2
+  }
+]
